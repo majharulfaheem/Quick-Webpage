@@ -68,7 +68,7 @@ a, a:hover {
 .online-section{
 	width: 100%;
 	float: left;
-	padding: 80px 0px;
+	padding: 50px 0px;
 	text-align: center;
 }
 .online-section h1{
@@ -225,7 +225,7 @@ a, a:hover {
     color: #9FCCFF;
     margin-top: 25px;
 }
-/* feature Section Start */
+/* feature Section end */
 
 /* footer-section code start*/
 .footer-section{
@@ -246,4 +246,4 @@ a, a:hover {
 	font-weight: 700;
 	letter-spacing: 3px;
 }
-/* footer-section code start*/
+/* footer-section code end*/
